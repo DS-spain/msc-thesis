@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Analysis, Design and Evaluation of PCB-Integrated Magnetic-Field-Based Current Sensors for Next Generation Wide-Bandgap DC-DC Switched-Mode Power Supplies"
+authors:
+  - family-names: "Diego"
+    given-names: "Serrano"
+year: 2025
+license: "CC-BY-SA-4.0 (thesis), GPL-3.0 (code)"
+url: "https://github.com/DiegoSerrano/msc-thesis"
