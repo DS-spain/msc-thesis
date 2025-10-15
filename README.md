@@ -11,9 +11,11 @@ PCB-integrated Rogowski coils (PUCs) are presented as compact, low-cost ,galvani
  • Sensor validated on GaN Buck Converter & SiC PFC Boost Converter (CrCM).
  • Simplified quasi-static PEEC solver to compute mutual inductance for the coplanar topology.
 
-## WARNING: Some design steps and procedures were deliberately omitted from the text.
+## Disclaimer  
 
-## WARNING: The preliminary solver is not optimized and works as a proof of concept.
+> **WARNING:** Some design steps, procedures and conclusions were deliberately omitted from the text.
+
+> **WARNING:** The preliminary solver is not optimized and works as a proof of concept.
 
 ---
 
@@ -34,13 +36,12 @@ As long as you:
 
 See `LICENSE_thesis` for the full text.
 
----
 
 ### 💻 MATLAB Code
 Licensed under the **GNU General Public License v3 (GPLv3)**.
 
 This means:
-- You may use, modify, and distribute the code
+- You may use, modify and distribute the code
 - Any derivative or distributed version **must also be released under GPLv3**
 - You must make source code available under the same license
 
@@ -57,5 +58,4 @@ A `CITATION.cff` file is provided.
 
 ## ✅ Contact
 Author: Diego Serrano  
-Year: 2025
 Email: diego.serranor@protonmail.com
